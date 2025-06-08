@@ -1,0 +1,4 @@
+Open new tab in chrome
+Type about:blank
+Ctrl+Shift+I
+Paste the  Tic Tac Toe.Js code into console tab.enter(System will ask to type "allow paste" before paste the code
